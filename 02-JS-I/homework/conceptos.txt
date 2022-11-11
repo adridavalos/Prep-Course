@@ -1,0 +1,16 @@
+       Conceptos
+//Variables
+Al declarar una variable se reserva un espacio de memoria para luego poder almacenar algun valor, 
+por ejemplo para realizar una suma se necesita dos valores, por lo tango se prodia declarar dos
+variables que el nombre reprente el tipo valor que tiene asignado. Luego se podria declarar otra variable en la cual se pueda guardar el
+valor del resultado obtenido por la suma, para proceder a realizar la suma se llama a las dos variables por el nombre asignado ya que es lo mismo
+que hacer la suma poniendo los numeros directo y con la variable resultado guardamos el resultado obtenido.
+//Strings son una cadena de caracter, para llegar a formar una palabra
+//Funciones (argumentos, return) como bien dice el nombre realiza una funcion en espesifico, ya sea si recibe argumentos o no, y con el retorno
+se puede informar el estado de la funcion. por ejemplo una funcion que realiza una suma, recibe dos valores como argunto y con el 
+retorno devuelve el resultado.
+//Declaraciones if  eje: tengo una funcion que realiza suma pero solo de los numeros par, por lo tanto la funcion tendria que filtar
+a los numeros par para luego poder realizar la suma, ahi es donde se utiliza if(){} que dentro de las llaves iria la condicion para realizar
+la suma y dentro de las llaves el codigo que realiza la suma.
+//Valores booleanos (true, false) true (verdadero) es utilizado como para indicar si algo salio bien o si algunas condiciones son verdadesras, 
+entre otras cosas, y false(falso) seria lo opuesto a true.
