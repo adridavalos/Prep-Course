@@ -1,0 +1,5 @@
+for es un bucle que se ejecuta miestras que se cumpla la condicion, se utiliza cuando se sabe la cantidad de iteraciones que se 
+quiere realizar.
+&& es un operador condicional "y" que si o si tiene que cumplirse ambas condiciones para que sea verdadera
+|| es un operador condicional "0" la cual si una de las condiciones es verdadera toda la condicion es verdadera
+! es un operador condicional de negacion, se utilza para negar una condicion
